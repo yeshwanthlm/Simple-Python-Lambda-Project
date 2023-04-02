@@ -14,7 +14,16 @@ Zeal to build! \
 ## Steps: 
 
 Step 1: Create Source and Destination S3 Buckets. \
+```sh
+S3 Bucket Names:
+Source Bucket: amc-aws-lambda-s3-project-source
+Destination Bucket: amc-aws-lambda-s3-project-destination
+```
 Step 2: Create a Lambda Function. \
+```sh
+Lambda Function Name: amc-aws-lambda-s3-project-function
+IAM Role Name: amc-aws-lambda-s3-project-role
+```
 Step 3: Add S3 Trigger to the Lambda Funtion. \
 Step 4: Write the Lambda Code. \
 Step 5: Save and Test the Lambda Function \
