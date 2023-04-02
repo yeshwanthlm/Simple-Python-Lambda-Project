@@ -9,7 +9,7 @@ Usecase: https://youtu.be/vUwojKBgjcs
 ## Prerequisites:
 
 An AWS account \
-Zeal to build! \
+Zeal to build! 
 
 ## Steps: 
 
