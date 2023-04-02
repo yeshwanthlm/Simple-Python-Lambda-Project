@@ -2,7 +2,7 @@
 
 ## Project: 
 
-Write a Lambda script that triggers when a file lands in an S3 bucket, and moves it to a folder named YYYMMDD/filename in the destination bucket based on when the file was created in the Source S3 Bucket. \
+Write a Lambda script that triggers when a file lands in an S3 bucket, and moves it to a folder named YYYMMDD/filename in the destination bucket based on when the file was created in the Source S3 Bucket. 
 
 Usecase: https://youtu.be/vUwojKBgjcs
 
